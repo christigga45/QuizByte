@@ -82,7 +82,7 @@ cd QuizByte
 ---
 
 ## 🌍 Live Deployment  
-🔗 **QuizByte:** [(https://shorturl.at/3vKug)](#)   
+🔗 **QuizByte:** [https://shorturl.at/3vKug](#)   
 
 ---
 
